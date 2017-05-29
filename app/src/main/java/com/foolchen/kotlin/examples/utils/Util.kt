@@ -1,4 +1,4 @@
-package com.foolchen.kotlin.examples
+package com.foolchen.kotlin.examples.utils
 
 import android.content.Context
 import android.widget.Toast
